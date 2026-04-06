@@ -1,0 +1,38 @@
+{
+    "real_news": {
+        "label": "REAL",
+        "confidence": 0.5,
+        "highlights": [
+            "nasa",
+            "report",
+            "official",
+            "according to"
+        ]
+    },
+    "fake_news": {
+        "label": "FAKE",
+        "confidence": 0.5,
+        "highlights": [
+            "breaking",
+            "shocking",
+            "miracle",
+            "uncovered",
+            "secret",
+            "aliens",
+            "anonymous source",
+            "ALIENS",
+            "INVADE",
+            "SHOCKING",
+            "FOOTAGE",
+            "UNCOVERED",
+            "ANONYMOUS",
+            "SOURCE!",
+            "BREAKING:",
+            "INVADERS",
+            "SECRETS!",
+            "MIRACLE",
+            "SURVIVAL",
+            "REPORTED!"
+        ]
+    }
+}
